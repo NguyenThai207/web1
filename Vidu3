@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Đây là ví dụ 3</title>
+    </head>
+    <body>
+        <h3 style="color:rgb(0, 0, 128); text-align:left;">Danh sách nước uống</h3>
+        <ul type="disc">
+            <li>Trà sữa</li>
+            <li>Cà phê sữa</li>
+            <li>Trà đào</li>
+            <li>Nước cam</li>
+        </ul>
+    <hr ="width=50%;color:red;text-align:left; size=5px">
+        <h3 style="color:red; text-align:left;">Thực đơn buổi sáng</h3>
+        <ul type="disc">
+            <li>Hủ tiếu</li>
+            <li>Cơm tắm</li>
+            <li>Bún bò huế</li>
+            <li>Phở</li>
+        </ul>
+    <hr ="width=50%;color:yellow;text-align:left; size=5px">
+        <h3 style="color:yellow; text-align:left;">Thực đơn trưa</h3>
+        <ol type="1">
+            <li>Thịt kho trứng</li>
+            <li>Heo quay</li>
+            <li>Tôm kho</li>
+            <li>Gà chiên nước mắm</li>
+        </ol>
+    </body>
+</html>
